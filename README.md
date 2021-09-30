@@ -18,14 +18,23 @@ You can see the **Controls** and **Rules** below
 
 ## Controls
 
-**Left** Click to attack with **Light Weapon**
+**Left** Click to attack with **Light Weapon** 
+
 **Right** Click to attack with **Heavy Weapon**
+
+
 Press **Spacebar** to attack with **Huge Weapon**
 
 
 ## Author
 
 **Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
+
+
 **YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
+
+
 **LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
+
+
 **Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
