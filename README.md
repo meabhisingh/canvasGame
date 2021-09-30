@@ -4,6 +4,13 @@ Hi!  my first html canvas **game**, I have created this using vanilla JavaScript
 You can see the **Controls** and **Rules** below
 
 
+## Demo 
+
+
+**Play** Click [Here](https://meabhisingh.github.io/canvasGame/)
+
+
+
 # Rules
 
  1. Killing each enemy will give you **10 points**.
