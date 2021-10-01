@@ -5,6 +5,7 @@
 canvas {
   background-color: rgb(49, 49, 49);
   max-width: 100%;
+  cursor: crosshair;
 }
 
 * {

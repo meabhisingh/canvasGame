@@ -213,7 +213,7 @@ class Enemy {
 }
 
 // Creating Particle Class
-const fraction = 0.98;
+const friction = 0.98;
 class Particle {
   constructor(x, y, radius, color, velocity) {
     this.x = x;
@@ -243,8 +243,8 @@ class Particle {
 
   update() {
     this.draw();
-    this.velocity.x *= fraction;
-    this.velocity.y *= fraction;
+    this.velocity.x *= friction;
+    this.velocity.y *= friction;
 
     this.x += this.velocity.x;
     this.y += this.velocity.y;
