@@ -366,6 +366,10 @@ function animation() {
     if (distanceBetweenPlayerAndEnemy - abhi.radius - enemy.radius < 1) {
       cancelAnimationFrame(animationId);
       gameOverSound.play();
+      hugeWeaponSound.pause();
+      shootingSound.pause();
+      heavyWeaponSound.pause();
+      killEnemySound.pause();
       return gameoverLoader();
     }
 
